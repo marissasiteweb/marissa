@@ -1,0 +1,28 @@
+div table{
+
+    border-collapse:separate;
+     width: 300px;px:
+      height: 300px;
+    
+    } 
+    
+    td{
+    width:50px;
+    border:1px solid #e315a9;
+    } 
+    tr{
+    
+    height:20px;
+    border:2px solid rgb(138, 5, 120);
+    width:50px; }
+    
+    div img{
+    
+    width:150px; height:150px;
+    
+    } 
+    th{
+    
+     color: #050104;
+    }
+  
